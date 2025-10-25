@@ -60,7 +60,7 @@ CORS_ORIGIN=http://localhost:4200
 
 ---
 
-## Functionality (Course Competency: Full-Stack Development)
+## Functionality 
 
 ### JSON vs. JavaScript and Their Integration
 - **JavaScript:** A programming language executable in Node.js and web browsers.
@@ -80,7 +80,7 @@ CORS_ORIGIN=http://localhost:4200
 
 ---
 
-## Testing (Course Competency: API/Integration & Security)
+## Testing 
 
 ### Methods, Endpoints, and Security in a Full-Stack Application
 
@@ -120,7 +120,7 @@ curl -s -X POST http://localhost:3000/api/trips  -H "Authorization: Bearer TOKEN
 
 ---
 
-## Reflection (Course Competency: Professional Practice)
+## Reflection 
 
 This course significantly advanced my ability to deliver production-ready full-stack projects. I gained confidence in data modeling, REST API design, modern SPA integration, and secure authentication implementation. These skills directly apply to technology consulting and small-business solutions, such as developing internal admin tools.
 
@@ -136,7 +136,7 @@ Ultimately, this project showcases my capability to plan and implement a robust 
 
 ---
 
-## Folder Structure (Typical)
+## Folder Structure 
 
 ```
 travlr/
